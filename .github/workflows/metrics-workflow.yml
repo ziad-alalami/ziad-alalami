@@ -24,20 +24,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Riyadh
-          
-          # ⏱Coding Habits Plugin
-          plugin_habits: yes
-          plugin_habits_from: 100       # Use last 200 events to calculate
-          plugin_habits_days: 14        # Keep it to the last 14 days for accuracy
-          plugin_habits_facts: yes      # Display facts (like "busiest day")
-          plugin_habits_charts: yes     # Display charts
-          
+  
           # Lines of Code Plugin
           plugin_lines: yes
-
-  
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
