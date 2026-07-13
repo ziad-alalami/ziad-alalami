@@ -25,19 +25,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Riyadh
           
-          # 3D Isometric Calendar Plugin
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
-          # Languages Plugin
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, shell
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          
           # ⏱Coding Habits Plugin
           plugin_habits: yes
-          plugin_habits_from: 200       # Use last 200 events to calculate
+          plugin_habits_from: 100       # Use last 200 events to calculate
           plugin_habits_days: 14        # Keep it to the last 14 days for accuracy
           plugin_habits_facts: yes      # Display facts (like "busiest day")
           plugin_habits_charts: yes     # Display charts

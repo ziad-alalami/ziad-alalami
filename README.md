@@ -31,9 +31,6 @@ Instead of just hooking up API wrappers, I like understanding how systems break 
 
 ### 🏆 Achievements & Streaks
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziad-alalami&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Ziad's Trophies" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziad-alalami&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Streak" width="80%" />
 </p>
 
