@@ -51,6 +51,11 @@ Instead of just hooking up API wrappers, I like understanding how systems break 
   </picture>
 </p>
 
+### 📡 Recent Engineering Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <div align="center">
   📫 <b>Reach me:</b> <a href="mailto:ziadalalami@gmail.com">ziadalalami@gmail.com</a>
 </div>
