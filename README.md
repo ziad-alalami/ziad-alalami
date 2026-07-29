@@ -6,12 +6,12 @@
 ---
 
 ### Who am I?
-I am Ziad. I spend half my time engineering high-throughput backend infrastructure, agentic workflows, mathematical modelling, building models from scratch with math, and the other half tracking my macros, lifting, swimming, playing football, climbing, and playing piano. I recently graduated from **KFUPM** with First Honors and spent an exchange semester at **KAIST** (where I survived building an OS in Pintos and joined the Kumdo club). 
+I am Ziad. I spend half my time engineering high-throughput backend infrastructure, agentic workflows, mathematical modelling, building models from scratch with math, and the other half tracking my macros, lifting, swimming, playing football, climbing, and playing piano. I recently graduated from **KFUPM** with First Honors and spent an exchange semester at **KAIST**. 
 
-Instead of just hooking up API wrappers, I like understanding how systems break and how to make them resilient, from an RL, trained Doom agent to autonomous fintech pipelines processing millions. 
+Instead of just hooking up API wrappers, I like understanding how systems break and how to make them resilient, from an RL, trained Doom agent to autonomous fintech pipelines processing tens of millions. 
 
-### ⚡ What I'm up to
--  **Building:** Scalable backend architecture and internal agentic knowledge platforms at **Stream** (and other tasks too).
+### What I am up to
+- **Building:** Scalable backend architecture and internal agentic knowledge platforms at **Stream** (and other tasks too).
 - **Exploring:** Quantitative Finance and Algos, Time Series, multimodal models quantization and fine-tuning, temporal learning, and hardware-software co-design.
 - **AFK:** Healthy stuff, watching travel vlogs, or travelling.
 
