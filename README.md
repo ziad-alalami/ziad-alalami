@@ -13,7 +13,7 @@ Instead of just hooking up API wrappers, I like understanding how systems break 
 ### What I am up to
 - **Building:** Scalable backend architecture and internal agentic knowledge platforms at **Stream** (and other tasks too).
 - **Exploring:** Quantitative Finance and Algos, Time Series, multimodal models quantization and fine-tuning, temporal learning, and hardware-software co-design.
-- **AFK:** Healthy stuff, watching travel vlogs, or travelling.
+- **AFK:** Gym, swimming, running, hiking, bouldering, diving, watching travel vlogs, or travelling.
 
 ###  The Arsenal
 <p align="center">
